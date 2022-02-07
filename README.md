@@ -4,6 +4,7 @@
 
 ### Major
 Statistics
+Mar 2017 – Feb 2023 (expected)  Pusan National University, Busan Bachelor of Statistics
 
 ### Skill
 #### Language
