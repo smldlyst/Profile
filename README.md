@@ -4,11 +4,14 @@
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 
+### Major
+Statistics
+
 ### Skill
 #### Language
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=blue"/>
 </p>
 
-#### Specializied
+
 
