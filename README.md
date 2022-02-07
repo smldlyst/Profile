@@ -1,1 +1,3 @@
-# Profile
+<div align="center">
+  # Profile
+</div>
