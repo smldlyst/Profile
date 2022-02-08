@@ -11,5 +11,8 @@ Pusan National University, Busan Bachelor of Statistics
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=blue"/>
 </p>
 
-
+#### Certificate
+SQLD, SQL Developer (2019) / Republic of Korea
+ADsP, Advanced Data Analytics Semi-Professional (2018) / Republic of Korea
+Survey Analyst,Junior (2015) / Republic of Korea
 
