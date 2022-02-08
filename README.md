@@ -17,5 +17,5 @@ Pusan National University, Busan Bachelor of Statistics
 
 - ADsP, Advanced Data Analytics Semi-Professional (2018) / Republic of Korea  
 
-- Survey Analyst,Junior** (2015) / Republic of Korea
+- Survey Analyst,Junior (2015) / Republic of Korea
 
