@@ -12,9 +12,9 @@ Pusan National University, Busan Bachelor of Statistics
 </p>
 
 #### Certificate
-SQLD, SQL Developer (2019) / Republic of Korea  
+**SQLD**, SQL Developer (2019) / Republic of Korea  
 
-ADsP, Advanced Data Analytics Semi-Professional (2018) / Republic of Korea  
+**ADsP**, Advanced Data Analytics Semi-Professional (2018) / Republic of Korea  
 
-Survey Analyst,Junior (2015) / Republic of Korea
+**Survey Analyst,Junior** (2015) / Republic of Korea
 
