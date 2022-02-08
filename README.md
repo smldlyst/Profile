@@ -31,4 +31,4 @@ Pusan National University, Busan Bachelor of Statistics
 - Seoul National University 4th Industrial Revolution Academy Bigdata Analytics (2018 6 ~ 12.)
 - Completion of education for local talents in Fintech in Busan (2017. 3 ~ 6.)
 
-#### Work Experimeces
+#### Work Experimences
