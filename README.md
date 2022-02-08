@@ -12,7 +12,7 @@ Pusan National University, Busan Bachelor of Statistics
 </p>
 
 #### Interest
-- Business Analysis : Recommendation, Marketing Analytics
+- Credit Rating, Recommendation, Marketing Analytics
 
 #### Certificate
 
