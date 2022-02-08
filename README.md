@@ -26,3 +26,7 @@ Pusan National University, Busan Bachelor of Statistics
 - Forest fire prediction model using FWI system (2021) / Personel
 - Improvement of KB commercial area analysis & Development of commercial district suitability index for small business owners (2018) / Seoul National Univ. **Awards**
 
+#### Extracurricular Activities
+- Seoul National University 4th Industrial Revolution Academy Bigdata Analytics (2018 6. ~ 12.)
+-
+- Fintech 
