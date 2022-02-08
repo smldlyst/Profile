@@ -27,6 +27,8 @@ Pusan National University, Busan Bachelor of Statistics
 - Improvement of KB commercial area analysis & Development of commercial district suitability index for small business owners (2018) / Seoul National Univ. **Awards**
 
 #### Extracurricular Activities
-- Seoul National University 4th Industrial Revolution Academy Bigdata Analytics (2018 6. ~ 12.)
--
-- Fintech 
+- Pusan National University AI Open Source SW Hackathon (2021 9 ~ 10.)
+- Seoul National University 4th Industrial Revolution Academy Bigdata Analytics (2018 6 ~ 12.)
+- Completion of education for local talents in Fintech in Busan (2017. 3 ~ 6.)
+
+#### Work Experimeces
