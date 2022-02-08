@@ -21,7 +21,8 @@ Pusan National University, Busan Bachelor of Statistics
 - Survey Analyst,Junior (2015) / Republic of Korea
 
 #### Project
-- Credit rating model using machine learning (2021)
-- Sightseeing Recommendation System (2021) / PNU-AI Hackathon(2021)
-- Improvement of KB commercial area analysis & Development of commercial district suitability index for small business owners (2018), **Awards**
+- Credit rating model using machine learning (2021) 
+- Sightseeing Recommendation System (2021) / PNU-AI Hackathon
+- Forest fire prediction model using FWI system / Personel
+- Improvement of KB commercial area analysis & Development of commercial district suitability index for small business owners (2018) / Seoul National Univ
 
