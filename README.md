@@ -22,6 +22,8 @@ Pusan National University, Busan Bachelor of Statistics
 
 #### Project
 Credit rating model using machine learning (2021)
+
 Sightseeing Recommendation System (2021) / PNU-AI Hackathon(2021)
+
 Improvement of KB commercial area analysis & Development of commercial district suitability index for small business owners (2018), **Awards**
 
