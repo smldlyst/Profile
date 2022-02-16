@@ -43,11 +43,11 @@ and I am interested in using Machine Learning based on Statistics.
 My differentiated abilities are:
 
 - Model fit
-: I use R's caret package to fit various machine learning models, and I have studied the theoretical background of most models.
+: I use R's caret package to fit various machine learning models, and I have studied the theoretical background of most models.  
 In addition, strategies for the optimized model can be established.
 
 - Model deployment
-: I have experience in developing a recommendation system through R's recosystem package,
+: I have experience in developing a recommendation system through R's recosystem package,  
 and I can distribute a model that can upload the plumber API to GCP through docker.
 
 - Visualization app development
