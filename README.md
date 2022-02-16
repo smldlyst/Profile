@@ -12,8 +12,8 @@ Pusan National University, Bachelor of Statistics 2023 (Candidate)
 </p>
 
 #### Interest
-- Financial : Credit Rating, Quant
-- Marketing : Recommendation
+- Financial : Credit Rating, Quantative Finacne, Customer Churn Prediction
+- Marketing : Recommendation, Association Analysis, Text Mining
 
 #### Certificate
 - SQLD, SQL Developer (2019) / Republic of Korea  
