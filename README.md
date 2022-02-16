@@ -12,7 +12,7 @@ Pusan National University, Bachelor of Statistics 2023 (Candidate)
 </p>
 
 #### Interest
-- Financial : Credit Rating, Quantative Finacne, Customer Churn Prediction
+- Financial : Credit Rating, Quantative Finance, Customer Churn Prediction
 - Marketing : Recommendation, Association Analysis, Text Mining
 
 #### Certificate
@@ -27,9 +27,9 @@ Pusan National University, Bachelor of Statistics 2023 (Candidate)
 - Improvement of KB commercial area analysis & Development of commercial district suitability index for small business owners (2018) / Seoul National Univ. **Awards**
 
 #### Extracurricular Activities
-- Pusan National University AI Open Source SW Hackathon (2021 9 ~ 10.)
-- Seoul National University 4th Industrial Revolution Academy, Bigdata Analytics Courses (2018 6 ~ 12.)
-- Global Fintech Industry Promotion Center, Fintech Professional Training (2017. 4. ~ 7.) 
+- Pusan National University AI Open Source SW Hackathon (2021. 9. 10. ~ 2021. 10. 8.)
+- Seoul National University 4th Industrial Revolution Academy, Bigdata Analytics Courses (2018. 6. 18.~2018. 12. 14.)
+- Global Fintech Industry Promotion Center, Fintech Professional Training (2017. 4. 27.~ 2017. 7. 5.) 
 
 #### Studying 
 - Time serises, Bayesian (2022)
