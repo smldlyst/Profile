@@ -34,7 +34,7 @@ Pusan National University, Bachelor of Statistics 2023 (Candidate)
 #### Studying 
 - Time serises, Bayesian
 - ADP, Advanced Data Analytics Professional (2022)
-- Advanced Credit Rating(Understading CRM, Predict Performance Upgrade, Scorecard Modeling)
+- Advanced Credit Rating(Understading CRM, Predict Performance Lifting, Scorecard development)
 
 #### Comment
 Hello, I am a student hoping to find a job in data analysis in Korea in 2023.
