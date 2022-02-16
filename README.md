@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmldlyst%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/smldlyst)
 
 ### Major
-Pusan National University, Busan Bachelor of Statistics
+Pusan National University, Bachelor of Statistics **2023 Candidate**
 
 ### Skill
 #### Language
@@ -27,8 +27,10 @@ Pusan National University, Busan Bachelor of Statistics
 
 #### Extracurricular Activities
 - Pusan National University AI Open Source SW Hackathon (2021 9 ~ 10.)
-- Seoul National University 4th Industrial Revolution Academy Bigdata Analytics (2018 6 ~ 12.)
-- Completion of education for local talents in Fintech in Busan (2017. 3 ~ 6.)
+- Seoul National University 4th Industrial Revolution Academy, Bigdata Analytics Courses (2018 6 ~ 12.)
+- Global Fintech Industry Promotion Center, Fintech Professional Training (2017. 4. ~ 7.) 
 
 #### Studying 
-- Time serises, Bayesian
+- Time serises, Bayesian (2022)
+- ADP, Advanced Data Analytics Professional (2022)
+- 
