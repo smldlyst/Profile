@@ -43,8 +43,7 @@ and I am interested in using Machine Learning based on Statistics.
 - My differentiated abilities are:
 
   + Model fit
-: I use R's caret package to fit various machine learning models, and I have studied the theoretical background of most models.
-For regression/classification problems, I can perform predictive model development.
+: I use R's caret package to fit various machine learning models, and I have studied the theoretical background of most models. For regression/classification problems, I can properly develop predictive models.
 
   + Model deployment
 : I have experience in developing a recommendation system through R's recosystem package,  
