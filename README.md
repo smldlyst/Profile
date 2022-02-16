@@ -24,7 +24,7 @@ Pusan National University, Bachelor of Statistics 2023 (Candidate)
 - Development Credit rating model using machine learning (2021) / Undergraduate researcher, Pusan National Univ.
 - Sightseeing Recommendation System (2021) / AI Hackathon, Pusan National Univ.
 - Forest fire prediction model using FWI system (2021) / Personel
-- Improvement of KB commercial area analysis & Development of commercial district suitability index for small business owners (2018) / Seoul National Univ. **Awards**
+- Improvement of KB commercial area analysis & Development of commercial district , for small business owners (2018) / Seoul National Univ. **Awards**
 
 #### Extracurricular Activities
 - Pusan National University AI Open Source SW Hackathon (2021. 9. 10. ~ 2021. 10. 8.)
@@ -32,9 +32,9 @@ Pusan National University, Bachelor of Statistics 2023 (Candidate)
 - Global Fintech Industry Promotion Center, Fintech Professional Training (2017. 4. 27.~ 2017. 7. 5.) 
 
 #### Studying 
-- Time serises, Bayesian (2022)
+- Time serises, Bayesian
 - ADP, Advanced Data Analytics Professional (2022)
-
+- Advanced Credit Rating(Understading CRM, Predict Performance Upgrade, Scorecard Modeling)
 
 #### Comment
 Hello, I am a student hoping to find a job in data analysis in Korea in 2023.
