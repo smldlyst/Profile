@@ -13,7 +13,7 @@
 </div>
 
 
-### Heading
+### Greetings
 Hello, I am interested in applying statistics and machine learning and hope to get a job as a data analyst in 2023.
 
 <div align = center>
@@ -79,6 +79,8 @@ Hello, I am interested in applying statistics and machine learning and hope to g
   + Marketing : Recommendation, Customer Churn Prediction, Association Analysis, Text Mining, Clustering/Segmentation  
 
 - Military Service: Korean Air Force, Honorably Discharged (2019. 5. - 2021. 3)
+
+- If you have any questions about me, please contact me by e-mail. (smldlyst@gmail.com) Thank you!
 
 <div align = center>
 
