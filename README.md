@@ -28,8 +28,8 @@ Hello, I am a student hoping to find a job(data analyst) in 2023. and I am inter
 <h2 align="center"> More Info </h2>
 </hr>
 
-## **My stengths are:**
 
+## **My stengths are:**
   + Model fit
 : I use R's caret package to fit various machine learning models, and I have studied the theoretical background of most models. For regression/classification problems, I can properly develop predictive models.
 
@@ -61,7 +61,8 @@ and I can distribute a model that can upload the plumber API to GCP through dock
 - Cetificate : ADP, Advanced Data Analytics Professional (2022)
 - Project : Advanced Credit Rating(Understading CRM, Predict Performance Lifting, Scorecard development)
 
-### Interest
+
+<br>### Interest/</br>
 - Financial : Credit Rating, Quantative Finance
 - Marketing : Recommendation, Customer Churn Prediction, Association Analysis, Text Mining, Clustering/Segmentation  
 
