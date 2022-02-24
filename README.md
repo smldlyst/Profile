@@ -50,10 +50,6 @@ and I can distribute a model that can upload the plumber API to GCP through dock
   + Visualization app development
 : I have experience developing visualization prototype apps using R Shiny. This app provides an interaction graph representing the predicted value according to the action of the user interface. In addition, it can be visualized using geographic information.
 
-#### Interest
-- Financial : Credit Rating, Quantative Finance
-- Marketing : Recommendation, Customer Churn Prediction, Association Analysis, Text Mining, Clustering/Segmentation
-
 #### Main Project
 - Development Credit rating model using machine learning (2021) / Undergraduate researcher, Pusan National Univ.
 - Sightseeing Recommendation System (2021) / AI Hackathon, Pusan National Univ.
@@ -63,8 +59,7 @@ and I can distribute a model that can upload the plumber API to GCP through dock
 #### Extracurricular Activities
 - Pusan National University AI Open Source SW Hackathon (2021. 9. 10. ~ 2021. 10. 8.)
 - Seoul National University 4th Industrial Revolution Academy, Bigdata Analytics Courses (2018. 6. 18.~2018. 12. 14.)
-- Global Fintech Industry Promotion Center, Fintech Professional Training (2017. 4. 27.~ 2017. 7. 5.) 
-
+- Fintech Professional Training, Global Fintech Industry Promotion Center (2017. 4. 27.~ 2017. 7. 5.) 
 
 #### Certificate
 - SQLD, SQL Developer (2019) / Republic of Korea  
@@ -75,3 +70,7 @@ and I can distribute a model that can upload the plumber API to GCP through dock
 - Theory : Time serises, Bayesian, Deep-learning
 - Cetificate : ADP, Advanced Data Analytics Professional (2022)
 - Project : Advanced Credit Rating(Understading CRM, Predict Performance Lifting, Scorecard development)
+
+#### Interest
+- Financial : Credit Rating, Quantative Finance
+- Marketing : Recommendation, Customer Churn Prediction, Association Analysis, Text Mining, Clustering/Segmentation
