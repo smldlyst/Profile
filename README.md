@@ -13,13 +13,6 @@
 </div>
 
 
-<div align = center>
-
-  ![smldlyst's github stats](https://github-readme-stats.vercel.app/api?username=smldlyst&show_icons=true)
-
-</div>
-
-
 ### Comment
 Hello, I am a student hoping to find a job(data analyst) in 2023. and I am interested in using Machine Learning based on Statistics.
 
@@ -30,7 +23,13 @@ Hello, I am a student hoping to find a job(data analyst) in 2023. and I am inter
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=blue"/></a>
 </div>
 
-<hr>
+
+<div align = center>
+
+  ![smldlyst's github stats](https://github-readme-stats.vercel.app/api?username=smldlyst&show_icons=true)
+
+</div>
+
 
 <h2 align="center"> More Info </h2>
 
