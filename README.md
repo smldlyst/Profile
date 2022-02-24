@@ -29,7 +29,7 @@ Hello, I am a student hoping to find a job(data analyst) in 2023. and I am inter
 
 <br>
 
-##- **My stengths are:**
+## **My stengths are:**
 
   + Model fit
 : I use R's caret package to fit various machine learning models, and I have studied the theoretical background of most models. For regression/classification problems, I can properly develop predictive models.
@@ -41,28 +41,28 @@ and I can distribute a model that can upload the plumber API to GCP through dock
   + Visualization app development
 : I have experience developing visualization prototype apps using R Shiny. This app provides an interaction graph representing the predicted value according to the action of the user interface. In addition, it can be visualized using geographic information.
 
-#### Main Project
+### Main Project
 - Development Credit rating model using machine learning (2021) / Undergraduate researcher, Pusan National Univ.
 - Sightseeing Recommendation System (2021) / AI Hackathon, Pusan National Univ.
 - Forest fire prediction model using FWI system (2021) / Personel
 - Improvement of KB commercial area analysis & Development of commercial district , for small business owners (2018) / Seoul National Univ. **Awards**
 
-#### Extracurricular Activities
+### Extracurricular Activities
 - Pusan National University AI Open Source SW Hackathon (2021. 9. 10. ~ 2021. 10. 8.)
 - Seoul National University 4th Industrial Revolution Academy, Bigdata Analytics Courses (2018. 6. 18.~2018. 12. 14.)
 - Fintech Professional Training, Global Fintech Industry Promotion Center (2017. 4. 27.~ 2017. 7. 5.) 
 
-#### Certificate
+### Certificate
 - SQLD, SQL Developer (2019) / Republic of Korea  
 - ADsP, Advanced Data Analytics Semi-Professional (2018) / Republic of Korea  
 - Survey Analyst,Junior (2015) / Republic of Korea
 
-#### Studying 
+### Studying 
 - Theory : Time serises, Bayesian, Deep-learning
 - Cetificate : ADP, Advanced Data Analytics Professional (2022)
 - Project : Advanced Credit Rating(Understading CRM, Predict Performance Lifting, Scorecard development)
 
-#### Interest
+### Interest
 - Financial : Credit Rating, Quantative Finance
 - Marketing : Recommendation, Customer Churn Prediction, Association Analysis, Text Mining, Clustering/Segmentation
 
