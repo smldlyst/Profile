@@ -29,7 +29,7 @@ and I am interested in using Machine Learning based on Statistics.
 
 <div align = center>
   <h3> 🛠 Language 🛠 </h3>
-  <h5> Tech that I've used at least once </h5>
+  <h5> used for data analysis and development  </h5>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=blue"/></a>
 </div>
@@ -38,8 +38,6 @@ and I am interested in using Machine Learning based on Statistics.
 
 <h3 align="center"> More Info </h3>
 
-<div align="center" style="text-align:center">
-  
   - My differentiated abilities are:
 
   + Model fit
@@ -77,5 +75,3 @@ and I can distribute a model that can upload the plumber API to GCP through dock
 - Theory : Time serises, Bayesian, Deep-learning
 - Cetificate : ADP, Advanced Data Analytics Professional (2022)
 - Project : Advanced Credit Rating(Understading CRM, Predict Performance Lifting, Scorecard development)
-  
-</div>
