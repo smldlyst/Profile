@@ -14,7 +14,7 @@
 
 
 ### Heading
-Hello, I am a student hoping to find a job(data analyst) in 2023. and I am interested in applying statistics and machine learning.
+Hello, I am a student hoping to find a job(data analyst) in 2023. and interested in applying statistics and machine learning.
 
 <div align = center>
   <h3> 🛠 Language 🛠 </h3>
