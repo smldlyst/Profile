@@ -34,7 +34,7 @@ Hello, I am a student hoping to find a job(data analyst) in 2023. and I am inter
 
 ### Work Experience
 - Temporary public servant, Dongnam Regional Statistics Office (2016-2018, 1 year)  
-: Create the Busan's Cruise Tourism Statistics Table(by using SAS and SPSS) and general affairs(editing press releases)
+: Create the Busan's Cruise Tourism Statistics Table(by using SAS and SPSS) and general affairs, editing press releases.
 
 ### Certification
  - SQLD, SQL Developer (2019) / Republic of Korea  
