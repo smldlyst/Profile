@@ -6,13 +6,6 @@
 
 </div>
 
-
-<div align=right>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmldlyst%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/smldlyst)
-
-</div>
-
 ### Comment
 https://velog.io/@apphia39/gitgithub-%EA%B9%83%ED%97%88%EB%B8%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EA%B4%80%EB%A0%A8-%EB%A7%81%ED%81%AC-%EB%AA%A8%EC%9D%8C%EC%A7%91 Hello, I am a student hoping to find a job(data analyst) in 2023.
 and I am interested in using Machine Learning based on Statistics.
@@ -74,3 +67,9 @@ and I can distribute a model that can upload the plumber API to GCP through dock
 #### Interest
 - Financial : Credit Rating, Quantative Finance
 - Marketing : Recommendation, Customer Churn Prediction, Association Analysis, Text Mining, Clustering/Segmentation
+
+<div align=right>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmldlyst%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/smldlyst)
+
+</div>
