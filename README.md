@@ -13,6 +13,13 @@
 </div>
 
 
+<div align = center>
+
+  ![smldlyst's github stats](https://github-readme-stats.vercel.app/api?username=smldlyst&show_icons=true)
+
+</div>
+
+
 ### Comment
 Hello, I am a student hoping to find a job(data analyst) in 2023. and I am interested in using Machine Learning based on Statistics.
 
@@ -63,12 +70,3 @@ and I can distribute a model that can upload the plumber API to GCP through dock
 ### Interest
 - Financial : Credit Rating, Quantative Finance
 - Marketing : Recommendation, Customer Churn Prediction, Association Analysis, Text Mining, Clustering/Segmentation  
-
-
-
-<div align = center>
-
-  ![smldlyst's github stats](https://github-readme-stats.vercel.app/api?username=smldlyst&show_icons=true)
-
-</div>
-
