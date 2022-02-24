@@ -42,8 +42,7 @@ Hello, I am a student hoping to find a job(data analyst) in 2023. and I am inter
  - Survey Analyst,Junior (2015) / Republic of Korea
 
 ### Training
-- PNU AI Open Source SW Hackathon: Pusan National University  (2021. 9. 10. ~ 2021. 10. 8.)
-- Military Service: Korean Air Force, Honorably Discharged (2019. 5. - 2021. 3)
+- PNU AI Open Source SW Hackathon: Pusan National University (2021. 9. 10. ~ 2021. 10. 8.)
 - Seoul National University 4th Industrial Revolution Academy: Bigdata Analytics Courses (2018. 6. 18.~2018. 12. 14.)
 - Fintech Professional Training, Global Fintech Industry Promotion Center (2017. 4. 27.~ 2017. 7. 5.) 
 
@@ -67,15 +66,17 @@ Hello, I am a student hoping to find a job(data analyst) in 2023. and I am inter
 - Improvement of KB commercial area analysis & Development of commercial district , for small business owners (2018) / Seoul National Univ. **Awards**
 
 
-### Studying 
-- Theory : Time serises, Bayesian, Deep-learning
-- Cetificate : ADP, Advanced Data Analytics Professional (2022)
-- Project : Advanced Credit Rating(Understading CRM, Predict Performance Lifting, Scorecard development)
+### TMI
+- Studying
+ - Theory : Time serises, Bayesian, Deep-learning
+ - Cetificate : ADP, Advanced Data Analytics Professional (2022)
+ - Project : Advanced Credit Rating(Understading CRM, Predict Performance Lifting, Scorecard development)
 
-### Interest
-- Financial : Credit Rating, Quantative Finance
-- Marketing : Recommendation, Customer Churn Prediction, Association Analysis, Text Mining, Clustering/Segmentation  
+- Interests
+ - Financial : Credit Rating, Quantative Finance
+ - Marketing : Recommendation, Customer Churn Prediction, Association Analysis, Text Mining, Clustering/Segmentation  
 
+- Military Service: Korean Air Force, Honorably Discharged (2019. 5. - 2021. 3)
 
 <div align = center>
 
