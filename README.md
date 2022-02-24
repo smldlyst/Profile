@@ -45,7 +45,10 @@ Hello, I am a student hoping to find a job(data analyst) in 2023. and I am inter
 - Forest fire prediction model using FWI system (2021) / Personel
 - Improvement of KB commercial area analysis & Development of commercial district , for small business owners (2018) / Seoul National Univ. **Awards**
 
-### Extracurricular Activities
+### Education
+Pusan National University, Bachelor of Statistics 2023 (Candidate)
+
+### Training
 - Pusan National University AI Open Source SW Hackathon (2021. 9. 10. ~ 2021. 10. 8.)
 - Seoul National University 4th Industrial Revolution Academy, Bigdata Analytics Courses (2018. 6. 18.~2018. 12. 14.)
 - Fintech Professional Training, Global Fintech Industry Promotion Center (2017. 4. 27.~ 2017. 7. 5.) 
