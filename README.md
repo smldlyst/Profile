@@ -47,7 +47,7 @@ Hello, I am a student hoping to find a job(data analyst) in 2023. and I am inter
 - Fintech Professional Training, Global Fintech Industry Promotion Center (2017. 4. 27.~ 2017. 7. 5.) 
 
 ### Awards
-- Improvement of KB commercial area analysis & Development of Market fit indicator, for small business owners (2018) / Seoul National Univ
+- Improvement of KB commercial area analysis & Development of Market fit indicator, for small business owners (2018) / Seoul National University Big Data Institute
 
 ### Core Competency
 1. Model fit
