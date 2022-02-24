@@ -63,7 +63,7 @@ Hello, I am a student hoping to find a job(data analyst) in 2023. and I am inter
 - Development Credit rating model using machine learning (2021) / Undergraduate researcher, Pusan National Univ.
 - Sightseeing Recommendation System (2021) / AI Hackathon, Pusan National Univ.
 - Forest fire prediction model using FWI system (2021) / Personel
-- Improvement of KB commercial area analysis & Development of commercial district , for small business owners (2018) / Seoul National Univ. **Awards**
+- Improvement of KB commercial area analysis & Development of commercial district, for small business owners (2018) / SNU.
 
 
 ### TMI
