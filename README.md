@@ -28,32 +28,26 @@ Hello, I am a student hoping to find a job(data analyst) in 2023. and I am inter
 <h2 align="center"> More Info </h2>
 </hr>
 
-## Education
+### Education
 - Pusan National University, Bachelor of Statistics 2023 (Candidate)
 
-## Work Experience
+### Work Experience
 - Dongnam Regional Statistics Office, 2016-2018 (1 year)
 
-## Certification
+### Certification
 - SQLD, SQL Developer (2019) / Republic of Korea  
 - ADsP, Advanced Data Analytics Semi-Professional (2018) / Republic of Korea  
 - Survey Analyst,Junior (2015) / Republic of Korea
 
-## Training
+### Training
 - Pusan National University AI Open Source SW Hackathon (2021. 9. 10. ~ 2021. 10. 8.)
 - Seoul National University 4th Industrial Revolution Academy, Bigdata Analytics Courses (2018. 6. 18.~2018. 12. 14.)
 - Fintech Professional Training, Global Fintech Industry Promotion Center (2017. 4. 27.~ 2017. 7. 5.) 
 
-## Awards
+### Awards
 - Improvement of KB commercial area analysis & Development of Market fit indicator, for small business owners (2018) / Seoul National Univ
 
-## Projects
-- Development Credit rating model using machine learning (2021) / Undergraduate researcher, Pusan National Univ.
-- Sightseeing Recommendation System (2021) / AI Hackathon, Pusan National Univ.
-- Forest fire prediction model using FWI system (2021) / Personal
-
-
-## **My stengths are:** (Core Competency)
+### **My stengths are:** (Core Competency)
 1. Model fit  
  : I often use R's caret package to fit various machine learning models, and I have studied the theoretical background of most models. For regression/classification problems, I can properly develop predictive models. and also able to analyze data through Python, SAS, and SPSS.
 
