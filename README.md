@@ -74,7 +74,7 @@ Hello, I am a student hoping to find a job(data analyst) in 2023. and I am inter
 
 - Interests
   + Financial : Credit Rating, Quantative Finance
-  + + Marketing : Recommendation, Customer Churn Prediction, Association Analysis, Text Mining, Clustering/Segmentation  
+  + Marketing : Recommendation, Customer Churn Prediction, Association Analysis, Text Mining, Clustering/Segmentation  
 
 - Military Service: Korean Air Force, Honorably Discharged (2019. 5. - 2021. 3)
 
