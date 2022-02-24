@@ -27,8 +27,6 @@ Hello, I am a student hoping to find a job(data analyst) in 2023. and I am inter
 
 <h2 align="center"> More Info </h2>
 
-<br>
-
 ## **My stengths are:**
 
   + Model fit
