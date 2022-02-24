@@ -25,11 +25,11 @@ Hello, I am a student hoping to find a job(data analyst) in 2023. and I am inter
 
 <hr>
 
-<h3 align="center"> More Info </h3>
+<h2 align="center"> More Info </h2>
 
 <br>
 
-- **My stengths are:**
+##- **My stengths are:**
 
   + Model fit
 : I use R's caret package to fit various machine learning models, and I have studied the theoretical background of most models. For regression/classification problems, I can properly develop predictive models.
