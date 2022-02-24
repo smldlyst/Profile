@@ -42,8 +42,9 @@ Hello, I am a student hoping to find a job(data analyst) in 2023. and I am inter
  - Survey Analyst,Junior (2015) / Republic of Korea
 
 ### Training
-- Pusan National University AI Open Source SW Hackathon (2021. 9. 10. ~ 2021. 10. 8.)
-- Seoul National University 4th Industrial Revolution Academy, Bigdata Analytics Courses (2018. 6. 18.~2018. 12. 14.)
+- PNU AI Open Source SW Hackathon: Pusan National University  (2021. 9. 10. ~ 2021. 10. 8.)
+- Military Service: Korean Air Force, Honorably Discharged (2019. 5. - 2021. 3)
+- Seoul National University 4th Industrial Revolution Academy: Bigdata Analytics Courses (2018. 6. 18.~2018. 12. 14.)
 - Fintech Professional Training, Global Fintech Industry Promotion Center (2017. 4. 27.~ 2017. 7. 5.) 
 
 ### Awards
