@@ -25,7 +25,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/></a>
 
 </div>
-------------  
 
 <hr>
 <h2 align="center"> More Info </h2>
