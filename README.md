@@ -80,10 +80,12 @@ Hello, I am interested in applying statistics and machine learning and hope to g
 
 - Military Service: Korean Air Force, Honorably Discharged (2019. 5. - 2021. 3)
 
-- If you have any questions about me, please contact me by e-mail. (smldlyst@gmail.com) Thank you!
-
+------------
 <div align = center>
 
   ![smldlyst's github stats](https://github-readme-stats.vercel.app/api?username=smldlyst&show_icons=true)
 
 </div>
+------------
+
+If you have any questions about me, please contact me by e-mail. (smldlyst@gmail.com) Thank you!
