@@ -31,7 +31,7 @@ Hello, I am interested in applying statistics and machine learning and hope to g
 </hr>
 
 ### Education
-- Bachelor of Science in Statistics, Pusan National University (2023) Candidate
+- Bachelor of Science in Statistics, Pusan National University (2023) **Candidate**
 - Bachelor of Business Administration, National Institute for Lifelong Education (2017)
 
 ### Work Experience
