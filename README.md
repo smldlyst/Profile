@@ -69,6 +69,6 @@ and I can distribute a model that can upload the plumber API to GCP through dock
 
 <div align = center>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smldlyst&show_icons=true&theme=radical)
+  [![smldlyst's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=smldlyst&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/smldlyst)
 
 </div>
