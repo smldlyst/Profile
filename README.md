@@ -36,7 +36,7 @@ Hello, I am a student hoping to find a job(data analyst) in 2023. and I am inter
 1. Model deployment **[I can work with developers to service machine learning models to customers.]**  
  : I have experience in developing a recommendation system through R's recosystem package, and I can deploy a model that can upload the plumber API to GCP through docker. 
 
-1. Visualization app development **[I can provide machine learning prediction results in the form of an interactive graph and implement a prototype app.]**  
+1. Visualization app development **[I can provide analysis results in the form of an interaction graph and implement a prototype app.]**  
  : I have experience developing visualization prototype apps using R Shiny. This app provides an interaction graph representing the predicted value according to the action of the user interface. In addition, it can be visualized using geographic information.
 
 ### Main Project
