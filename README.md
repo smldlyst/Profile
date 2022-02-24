@@ -31,7 +31,7 @@ Hello, I am a student hoping to find a job(data analyst) in 2023. and I am inter
 
 ## **My stengths are:**
 1. Model fit
-: I use R's caret package to fit various machine learning models, and I have studied the theoretical background of most models. For regression/classification problems, I can properly develop predictive models.
+: I often use R's caret package to fit various machine learning models, and I have studied the theoretical background of most models. For regression/classification problems, I can properly develop predictive models.
 
 1. Model deployment
 : I have experience in developing a recommendation system through R's recosystem package,  
