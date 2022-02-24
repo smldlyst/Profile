@@ -40,7 +40,7 @@ Hello, I am interested in applying statistics and machine learning and hope to g
 
 ### Certification
  - SQLD, SQL Developer (2019) / Republic of Korea  
- - ADsP, Advanced Data Analytics Semi-Professional (2018) / Republic of Korea  
+ - ADSP, Advanced Data Analytics Semi-Professional (2018) / Republic of Korea  
  - Survey Analyst,Junior (2015) / Republic of Korea
 
 ### Training
