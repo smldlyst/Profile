@@ -31,8 +31,8 @@ Hello, I am a student hoping to find a job(data analyst) in 2023. and I am inter
 ## Education
 - Pusan National University, Bachelor of Statistics 2023 (Candidate)
 
-## Professional Experience
-
+## Work Experience
+- Dongnam Regional Statistics Office, 2016-2018 (1 year)
 
 ## Certification
 - SQLD, SQL Developer (2019) / Republic of Korea  
