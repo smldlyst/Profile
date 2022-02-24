@@ -66,13 +66,6 @@ and I can distribute a model that can upload the plumber API to GCP through dock
 - Financial : Credit Rating, Quantative Finance
 - Marketing : Recommendation, Customer Churn Prediction, Association Analysis, Text Mining, Clustering/Segmentation
 
-</br>
-</hr>
-
 <div align = center>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smldlyst&show_icons=true&theme=radical)
-  
-</div>
- 
-</br>
