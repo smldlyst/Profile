@@ -67,8 +67,7 @@ and I can distribute a model that can upload the plumber API to GCP through dock
 - Financial : Credit Rating, Quantative Finance
 - Marketing : Recommendation, Customer Churn Prediction, Association Analysis, Text Mining, Clustering/Segmentation
 
-
-
+<br>
 
 <div align = center>
   
@@ -76,4 +75,4 @@ and I can distribute a model that can upload the plumber API to GCP through dock
   
 </div>
  
-<hr>
+</br>
