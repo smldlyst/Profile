@@ -29,7 +29,8 @@ Hello, I am a student hoping to find a job(data analyst) in 2023. and I am inter
 </hr>
 
 ### Education
-- Pusan National University, Bachelor of Statistics 2023 (Candidate)
+- Bachelor of Science in Statistics, Pusan National University, Bachelor of Statistics (2023) Candidate
+- Bachelor of Business Administration, National Institute for Lifelong Education (2017)
 
 ### Work Experience
 - Temporary public servant, Dongnam Regional Statistics Office (2016-2018, 1 year)  
