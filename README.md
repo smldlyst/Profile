@@ -68,13 +68,13 @@ Hello, I am a student hoping to find a job(data analyst) in 2023. and I am inter
 
 ### TMI
 - Studying
- - Theory : Time serises, Bayesian, Deep-learning
- - Cetificate : ADP, Advanced Data Analytics Professional (2022)
- - Project : Advanced Credit Rating(Understading CRM, Predict Performance Lifting, Scorecard development)
+ + Theory : Time serises, Bayesian, Deep-learning
+ + Cetificate : ADP, Advanced Data Analytics Professional (2022)
+ + Project : Advanced Credit Rating(Understading CRM, Predict Performance Lifting, Scorecard development)
 
 - Interests
- - Financial : Credit Rating, Quantative Finance
- - Marketing : Recommendation, Customer Churn Prediction, Association Analysis, Text Mining, Clustering/Segmentation  
+ + Financial : Credit Rating, Quantative Finance
+ + Marketing : Recommendation, Customer Churn Prediction, Association Analysis, Text Mining, Clustering/Segmentation  
 
 - Military Service: Korean Air Force, Honorably Discharged (2019. 5. - 2021. 3)
 
