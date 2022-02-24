@@ -32,7 +32,7 @@ Hello, I am a student hoping to find a job(data analyst) in 2023. and I am inter
 - Pusan National University, Bachelor of Statistics 2023 (Candidate)
 
 ### Work Experience
-- Temporary public servant / Dongnam Regional Statistics Office (2016-2018, 1 year) 
+- Temporary public servant, Dongnam Regional Statistics Office (2016-2018, 1 year) 
 : Busan cruise tourism statistics development and general affairs (Creating statistical tables using SAS and SPSS, editing press releases)
 
 ### Certification
