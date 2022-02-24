@@ -62,7 +62,9 @@ and I can distribute a model that can upload the plumber API to GCP through dock
 - Project : Advanced Credit Rating(Understading CRM, Predict Performance Lifting, Scorecard development)
 
 
-<br>### Interest/</br>
+<br>
+### Interest
+</br>
 - Financial : Credit Rating, Quantative Finance
 - Marketing : Recommendation, Customer Churn Prediction, Association Analysis, Text Mining, Clustering/Segmentation  
 
