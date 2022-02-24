@@ -14,7 +14,7 @@
 </div>
 
 ### Comment
-Hello, I am a student hoping to find a job(data analyst) in 2023.
+https://velog.io/@apphia39/gitgithub-%EA%B9%83%ED%97%88%EB%B8%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EA%B4%80%EB%A0%A8-%EB%A7%81%ED%81%AC-%EB%AA%A8%EC%9D%8C%EC%A7%91 Hello, I am a student hoping to find a job(data analyst) in 2023.
 and I am interested in using Machine Learning based on Statistics.
 
 <br>
