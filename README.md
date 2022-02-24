@@ -38,7 +38,7 @@ and I am interested in using Machine Learning based on Statistics.
 
 <h3 align="center"> More Info </h3>
 
-  - My differentiated abilities are:
+- My differentiated abilities are:
 
   + Model fit
 : I use R's caret package to fit various machine learning models, and I have studied the theoretical background of most models. For regression/classification problems, I can properly develop predictive models.
