@@ -32,7 +32,6 @@ Hello, I am interested in applying statistics and machine learning and hope to g
 
 ### Education
 - Bachelor of Science in Statistics, Pusan National University (2023) **Candidate**
-- Bachelor of Business Administration, National Institute for Lifelong Education (2017)
 
 ### Work Experience
 - Temporary public servant, Dongnam Regional Statistics Office (2016-2018, 1 year)  
