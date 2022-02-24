@@ -16,6 +16,7 @@
 ### Greetings
 #### Hello, I am interested in applying statistics and machine learning and hope to get a job as a data analyst in 2023.
 
+------------  
 <div align = center>
   <h3> 🛠 Language 🛠 </h3>
   <h5> used for data analysis and development  </h5>
@@ -24,7 +25,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/></a>
 
 </div>
-
+------------  
 
 <hr>
 <h2 align="center"> More Info </h2>
