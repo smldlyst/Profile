@@ -49,8 +49,8 @@ Hello, I am a student hoping to find a job(data analyst) in 2023. and I am inter
 ### Awards
 - Improvement of KB commercial area analysis & Development of Market fit indicator, for small business owners (2018) / Seoul National Univ
 
-### **My stengths are:** (Core Competency)
-1. Model fit  
+### Core Competency
+**1. Model fit**
  : I often use R's caret package to fit various machine learning models, and I have studied the theoretical background of most models. For regression/classification problems, I can properly develop predictive models. and also able to analyze data through Python, SAS, and SPSS.
 
 1. Model deployment **[I can work with developers to service machine learning models to customers.]**  
