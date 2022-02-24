@@ -28,6 +28,8 @@ and I am interested in using Machine Learning based on Statistics.
 
 <h3 align="center"> More Info </h3>
 
+<br>
+
 - My differentiated abilities are:
 
   + Model fit
@@ -66,7 +68,7 @@ and I can distribute a model that can upload the plumber API to GCP through dock
 - Marketing : Recommendation, Customer Churn Prediction, Association Analysis, Text Mining, Clustering/Segmentation
 
 
-<br>
+
 
 <div align = center>
   
