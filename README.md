@@ -1,21 +1,46 @@
-# Profile
+<br>
 
+<div align = center>
+  
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=smldlyst&fontSize=70&animation=twinkling)
+
+</div>
+
+
+<div align=right>
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmldlyst%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/smldlyst)
 
-### Major
-Pusan National University, Bachelor of Statistics 2023 (Candidate)
+</div>
 
-### Skill
-#### Language
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=blue"/>
-</p>
-
-#### Comment
+### Comment
 Hello, I am a student hoping to find a job(data analyst) in 2023.
 and I am interested in using Machine Learning based on Statistics.
 
-- My differentiated abilities are:
+<br>
+
+<div align = center>
+  
+  !smldlyst's GitHub stats](https://github-readme-stats.vercel.app/api?username=smldlyst&show_icons=true&theme=radical)
+  
+</div>
+ 
+<hr>
+
+<div align = center>
+  <h3> 🛠 Language 🛠 </h3>
+  <h5> Tech that I've used at least once </h5>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/></a>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=blue"/></a>
+</div>
+
+<hr>
+
+<h3 align="center"> More Info </h3>
+
+<div align="center" style="text-align:center">
+  
+  - My differentiated abilities are:
 
   + Model fit
 : I use R's caret package to fit various machine learning models, and I have studied the theoretical background of most models. For regression/classification problems, I can properly develop predictive models.
@@ -52,3 +77,5 @@ and I can distribute a model that can upload the plumber API to GCP through dock
 - Theory : Time serises, Bayesian, Deep-learning
 - Cetificate : ADP, Advanced Data Analytics Professional (2022)
 - Project : Advanced Credit Rating(Understading CRM, Predict Performance Lifting, Scorecard development)
+  
+</div>
