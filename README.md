@@ -35,9 +35,9 @@ Hello, I am a student hoping to find a job(data analyst) in 2023. and I am inter
 - Dongnam Regional Statistics Office, 2016-2018 (1 year)
 
 ### Certification
-- SQLD, SQL Developer (2019) / Republic of Korea  
-- ADsP, Advanced Data Analytics Semi-Professional (2018) / Republic of Korea  
-- Survey Analyst,Junior (2015) / Republic of Korea
+ - SQLD, SQL Developer (2019) / Republic of Korea  
+ - ADsP, Advanced Data Analytics Semi-Professional (2018) / Republic of Korea  
+ - Survey Analyst,Junior (2015) / Republic of Korea
 
 ### Training
 - Pusan National University AI Open Source SW Hackathon (2021. 9. 10. ~ 2021. 10. 8.)
