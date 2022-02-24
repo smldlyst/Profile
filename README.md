@@ -21,7 +21,7 @@ and I am interested in using Machine Learning based on Statistics.
 
 <div align = center>
   
-  [!smldlyst's GitHub stats](https://github-readme-stats.vercel.app/api?username=smldlyst&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smldlyst&show_icons=true&theme=radical)
   
 </div>
  
