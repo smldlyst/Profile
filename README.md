@@ -38,9 +38,9 @@
 : Create the Busan's Cruise Tourism Statistics Table(by using SAS and SPSS) and general affairs, editing press releases.
 
 ### Certification
- - SQLD, SQL Developer (2019) / Republic of Korea  
- - ADSP, Advanced Data Analytics Semi-Professional (2018) / Republic of Korea  
- - Survey Analyst,Junior (2015) / Republic of Korea
+ - SQLD, SQL Developer (2019) / South Korea  
+ - ADSP, Advanced Data Analytics Semi-Professional (2018) / South Korea  
+ - Survey Analyst,Junior (2015) / South Korea
 
 ### Training
 - Pusan National University AI Open Source SW Hackathon (2021. 9. 10.~ 2021. 10. 8.)
