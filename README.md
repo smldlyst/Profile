@@ -48,7 +48,7 @@
 - Fintech Professional Training, Global Fintech Industry Promotion Center (2017. 4. 27.~ 2017. 7. 5.) 
 
 ### Awards
-- Improvement of KB commercial area analysis & Development of Market fit indicator, for small business owners (2018) / Seoul National University (Excellence Prize)
+- Improvement of KB commercial area analysis & Development of Market fit indicator, for small business owners (2018) / Seoul National University **(Excellence Prize)**
 
 ### Core Competency
 1. Model fit
