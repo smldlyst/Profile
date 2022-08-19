@@ -14,7 +14,7 @@
 
 
 ### Greetings
-#### Hello, I am interested in applying statistics and machine learning and hope to get a job as a data analyst in 2023.
+#### Hello, I am interested in applying statistics and machine learning and hope to get a job as a data scientist in 2023.
 
 ------------  
 <div align = center>
