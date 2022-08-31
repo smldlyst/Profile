@@ -64,17 +64,15 @@
 ### Project
 - Development Credit rating model using machine learning (2021) / Undergraduate researcher, Pusan National Univ.
 - Sightseeing Recommendation System (2021) / AI Hackathon, Pusan National Univ.
-- Forest fire prediction model using FWI system (2021) / Personal.
 - Improvement of KB commercial area analysis & Development of commercial district, for small business owners (2018) / Seoul National Univ.
 
 
 ### TMI
-- Studying  
-  + Theory : Time serises, Bayesian, Deep-learning
+- Studying
+  + Theory : Time serises, Deep-learning, Survival Analysis
   + Cetificate : ADP, Advanced Data Analytics Professional (2022)
   + Project : Advanced Credit Rating(Understading CRM, Predict Performance Lifting, Scorecard development)
 
-- Interests
   + Financial : Credit Rating, Quantative Finance
   + Marketing : Recommendation, Customer Churn Prediction, Association Analysis, Text Mining, Clustering/Segmentation  
 
