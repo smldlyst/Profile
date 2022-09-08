@@ -39,7 +39,7 @@
 
 ### Certification
  - Engineer Big Data Analysis (2022) / South Korea
- - SQLD, SQL Developer (2019) / Republic of Korea  
+ - SQLD, SQL Developer (2019) / South Korea
  - ADSP, Advanced Data Analytics Semi-Professional (2018) / South Korea  
  - Survey Analyst (2015) / South Korea
 
