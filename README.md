@@ -41,7 +41,7 @@
  - Engineer Big Data Analysis (2022) / South Korea
  - SQLD, SQL Developer (2019) / South Korea
  - ADSP, Advanced Data Analytics Semi-Professional (2018) / South Korea  
- - Survey Analyst (2015) / South Korea
+ - Survey Analyst, Junior (2015) / South Korea
 
 ### Training
 - Pusan National University AI Open Source SW Hackathon (2021. 9. 10.~ 2021. 10. 8.)
@@ -68,13 +68,11 @@
 
 
 ### TMI
-- Studying
+- Study
   + Theory : Time serises, Deep-learning, Survival Analysis
   + Cetificate : ADP, Advanced Data Analytics Professional (2022)
-  + Project : Advanced Credit Rating(Understading CRM, Predict Performance Lifting, Scorecard development)
-
   + Financial : Credit Rating, Quantative Finance
-  + Marketing : Recommendation, Customer Churn Prediction, Association Analysis, Text Mining, Clustering/Segmentation  
+  + Marketing : Recommendation, Text Mining
 
 - Military Service: Korean Air Force, Honorably Discharged (2019. 5. - 2021. 3)
 
