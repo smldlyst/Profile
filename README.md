@@ -69,8 +69,7 @@
 
 ### TMI
 - Study
-  + Theory : Time serises, Deep-learning, Survival Analysis
-  + Cetificate : ADP, Advanced Data Analytics Professional (2022)
+  + Statistics : Multivariate Time series, Bayesian
   + Financial : Credit Rating, Quantative Finance
   + Marketing : Recommendation, Text Mining
 
