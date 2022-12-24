@@ -14,7 +14,7 @@
 
 
 ### Greetings
-#### Hello, I am interested in applying statistics and machine learning and hope to get a job as a data scientist in 2023.
+#### Nice to meet you! I majored in statistics and work as an AI engineer. I am particularly interested in time series data and predictive modeling based on PyTorch.
 
 ------------  
 <div align = center>
@@ -68,8 +68,8 @@
 
 
 ### TMI
-- Study
-  + Statistics : Multivariate Time series, Bayesian
+- Study & Interest
+  + Statistics : Time series, Bayesian, Deep Learning
   + Financial : Credit Rating, Quantative Finance
   + Marketing : Recommendation, Text Mining
 
