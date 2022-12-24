@@ -34,8 +34,8 @@
 - Bachelor of Science in Statistics, Pusan National University (2023) **Candidate**
 
 ### Work Experience
-- Public Servant(Temporary), Dongnam Regional Statistics Office (2016-2018, 1 year)  
-: Create the Busan's Cruise Tourism Statistics Table(by using SAS and SPSS) and general affairs, editing press releases.
+- Public Servant, Dongnam Regional Statistics Office (2016-2018, 1 year)  
+: In charge of Statistics Production & General affairs.
 
 ### Certification
  - Engineer Big Data Analysis (2022) / South Korea
