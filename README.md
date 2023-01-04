@@ -38,10 +38,10 @@
 : In charge of Statistics Production & General affairs.
 
 ### Certification
- - Engineer Big Data Analysis (2022) / South Korea
- - SQLD, SQL Developer (2019) / South Korea
- - ADSP, Advanced Data Analytics Semi-Professional (2018) / South Korea  
- - Survey Analyst, Junior (2015) / South Korea
+ - Engineer Big Data Analysis (2022) / Republic of Korea
+ - SQLD, SQL Developer (2019) / Republic of Korea
+ - ADSP, Advanced Data Analytics Semi-Professional (2018) / Republic of Korea
+ - Survey Analyst, Junior (2015) / Republic of Korea
 
 ### Training
 - Pusan National University AI Open Source SW Hackathon (2021. 9. 10.~ 2021. 10. 8.)
