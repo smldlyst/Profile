@@ -31,11 +31,12 @@
 </hr>
 
 ### Education
-- Bachelor of Science in Statistics, Pusan National University (2023) **Candidate**
+- Bachelor of Science in Statistics, Pusan National University (2023)
 
 ### Work Experience
-- Public Servant, Dongnam Regional Statistics Office (2016-2018, 1 year)  
-: In charge of Statistics Production & General affairs.
+- Public Servant, Dongnam Regional Statistics Office (2016-2018, 1 year) / In charge of Statistics Production & General affairs.
+- AI Engineer, INEEJI (2023~) / Develop App for Anomaly Detection 
+
 
 ### Certification
  - Engineer Big Data Analysis (2022) / Republic of Korea
