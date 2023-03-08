@@ -34,8 +34,8 @@
 - Bachelor of Science in Statistics, Pusan National University (2023)
 
 ### Work Experience
-- Public Servant, Dongnam Regional Statistics Office (2016-2018, 1 year) / In charge of Statistics Production & General affairs.
 - AI Engineer, INEEJI (2023~) / Develop App for Anomaly Detection 
+- Public Servant, Dongnam Regional Statistics Office (2016-2018, 1 year) / In charge of Statistics Production & General affairs.
 
 
 ### Certification
