@@ -18,7 +18,7 @@
 
 ------------  
 <div align = center>
-  <h3> 🛠 Language 🛠 </h3>
+  <h3> 🛠 Tech Stack 🛠 </h3>
   <h5> used for data analysis and development  </h5>
   
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/></a>
