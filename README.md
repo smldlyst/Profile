@@ -13,8 +13,8 @@
 </div>
 
 
-### Greetings
-#### Nice to meet you! I majored in statistics and work as an AI engineer. I am particularly interested in time series data and predictive modeling based on PyTorch.
+### Greeting
+#### Nice to meet you! I majored in statistics and work as an AI engineer. I am particularly interested in anomaly detection and deep learning prediction modeling for time series data.
 
 ------------  
 <div align = center>
@@ -41,7 +41,10 @@
 - Bachelor of Science in Statistics, Pusan National University (2023)
 
 ### Work Experience
-- AI Engineer, INEEJI (2023~) / Develop App for Anomaly Detection 
+- AI Engineer, INEEJI (2023~)
+  - Develop App for Anomaly Detection 
+  - DB Optimization
+  - Develop DB API
 - Public Servant, Dongnam Regional Statistics Office (2016-2018, 1 year) / In charge of Statistics Production & General affairs.
 
 
@@ -56,7 +59,7 @@
 - Seoul National University 4th Industrial Revolution Academy: Bigdata Analytics Courses (2018. 6. 18.~ 2018. 12. 14.)
 - Fintech Professional Training, Global Fintech Industry Promotion Center (2017. 4. 27.~ 2017. 7. 5.) 
 
-### Awards
+### Award
 - Improvement of KB commercial area analysis & Development of Market fit indicator, for small business owners (2018) / Seoul National University **(Excellence Prize)**
 
 ### Core Competency
