@@ -13,7 +13,7 @@
 </div>
 
 
-### Greeting
+### Introduce
 #### Nice to meet you! I majored in statistics and work as an AI engineer. I am particularly interested in anomaly detection and deep learning prediction modeling for time series data.
 
 ------------  
@@ -45,7 +45,8 @@
   - Develop App for Anomaly Detection 
   - DB Optimization
   - Develop DB API
-- Public Servant, Dongnam Regional Statistics Office (2016-2018, 1 year) / In charge of Statistics Production & General affairs.
+- Public Servant, Dongnam Regional Statistics Office (2016-2018, 1 year)
+  - Statistics Production using SAS, SPSS
 
 
 ### Certification
