@@ -46,7 +46,8 @@
   - DB Optimization
   - Develop DB API
 - Public Servant, Dongnam Regional Statistics Office (2016-2018, 1 year)
-  - Statistics Production using SAS, SPSS
+  - Using SAS, SPSS to Create Statistic
+  - General Affair
 
 
 ### Certification
