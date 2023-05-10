@@ -46,7 +46,7 @@
   - Develop App for Anomaly Detection 
   - DB Optimization
   - Develop DB API
-- Public Servant, Dongnam Regional Statistics Office (2016-2018, 1 year)
+- Public Servant, Statistics Korea (2016-2018, 1 year)
   - Using SAS, SPSS to Create Statistic
   - General Affair
 
