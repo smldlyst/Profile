@@ -19,7 +19,7 @@
 ------------  
 <div align = center>
   <h3> 🛠 Tech Stack 🛠 </h3>
-  <h5> used for data analysis and development  </h5>
+  <h5> Data Analysis and Development  </h5>
   
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/></a>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=blue"/></a>
