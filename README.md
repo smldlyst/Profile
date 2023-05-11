@@ -51,16 +51,6 @@
   - General Affair
 
 
-### Certification
- - Engineer Big Data Analysis (2022)
-
-### Training
-- Pusan National University AI Open Source SW Hackathon (2021. 9. 10.~ 2021. 10. 8.)
-- Seoul National University 4th Industrial Revolution Academy: Bigdata Analytics Courses (2018. 6. 18.~ 2018. 12. 14.) 
-
-### Award
-- Improvement of KB commercial area analysis & Development of Market fit indicator, for small business owners (2018) / Seoul National University **(Excellence Prize)**
-
 ### Core Competency
 1. Model fit
  : I can perform statistical and machine learning modeling for regression/classification prediction skillfully, and I have studied the theoretical background of most models. 
@@ -70,12 +60,27 @@
 
 1. App development **[I can provide analysis results in the form of an interaction graph and implement a prototype app.]**  
  : I can develop an app that provides data analysis results through the R Shiny framework. (Currently, I am studying developing apps through full stack.)
- 
+
+
+### Award
+- Improvement of KB commercial area analysis & Development of Market fit indicator, for small business owners (2018) / Seoul National University **(Excellence Prize)**
+
+
+### Training
+- Pusan National University AI Open Source SW Hackathon (2021. 9. 10.~ 2021. 10. 8.)
+- Seoul National University 4th Industrial Revolution Academy: Bigdata Analytics Courses (2018. 6. 18.~ 2018. 12. 14.) 
+
+
 ### Project
 - Analysis of Influencing Factors on Subjective Satisfaction (2022) *CFA, AutoML, XAI
 - Development Credit rating model using statistical machine learning (2022) *glmboost
 - Sightseeing Recommendation System (2021) *serving model api
 - Improvement of KB commercial area analysis & Development of commercial district, for small business owners (2018) *r shiny
+
+
+### Certification
+ - Engineer Big Data Analysis (2022)
+
 
 ### TMI
 - Study & Interest
