@@ -47,15 +47,13 @@
   - DB Optimization
   - Develop DB API
 - Public Servant, Statistics Korea (2016-2018, 1 year)
-  - Using SAS, SPSS to Create Statistic
+  - Creating statistics (using SAS, SPSS)
   - General Affair
 
 
 ### Certification
- - Engineer Big Data Analysis (2022) / Republic of Korea
- - SQLD, SQL Developer (2019) / Republic of Korea
- - ADSP, Advanced Data Analytics Semi-Professional (2018) / Republic of Korea
- - Survey Analyst, Junior (2015) / Republic of Korea
+ - Engineer Big Data Analysis (2022)
+
 
 ### Training
 - Pusan National University AI Open Source SW Hackathon (2021. 9. 10.~ 2021. 10. 8.)
@@ -76,9 +74,10 @@
  : I have experience developing visualization prototype apps using R Shiny. This app provides an interaction graph representing the predicted value according to the action of the user interface. In addition, it can be visualized using geographic information.
 
 ### Project
-- Development Credit rating model using machine learning (2021) / Undergraduate researcher, Pusan National Univ.
-- Sightseeing Recommendation System (2021) / AI Hackathon, Pusan National Univ.
-- Improvement of KB commercial area analysis & Development of commercial district, for small business owners (2018) / Seoul National Univ.
+- 주관적만족감에 미치는 영향요인 분석, Analysis of Influencing Factors on Subjective Satisfaction (2022)
+- 머신러닝을 이용한 신용평가모형 개발 Development Credit rating model using machine learning (2021) / Undergraduate researcher, Pusan National Univ.
+- 관광지 추천 시스템 Sightseeing Recommendation System (2021) / AI Hackathon, Pusan National Univ.
+- 소상공인을 위한 KB 상권분석 개선 및 개발 Improvement of KB commercial area analysis & Development of commercial district, for small business owners (2018) / Seoul National Univ.
 
 
 ### TMI
