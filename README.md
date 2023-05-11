@@ -52,8 +52,8 @@
 
 
 ### Core Competency
-1. Model fit
- : I can perform statistical and machine learning modeling for regression/classification prediction skillfully, and I have studied the theoretical background of most models. 
+1. Fit Model
+ : I can perform statistical and machine learning modeling for regression/classification prediction skillfully, and I have studied the theoretical background of most models. Also, I can apply AutoML & XAI to the analysis.
 
 1. API Deployment **[I can service machine learning models to customers and collaborate with developers.]**  
  : I can develop DB, Model API, and distribute it to cloud.
