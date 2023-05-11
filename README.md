@@ -54,37 +54,32 @@
 ### Certification
  - Engineer Big Data Analysis (2022)
 
-
 ### Training
 - Pusan National University AI Open Source SW Hackathon (2021. 9. 10.~ 2021. 10. 8.)
-- Seoul National University 4th Industrial Revolution Academy: Bigdata Analytics Courses (2018. 6. 18.~ 2018. 12. 14.)
-- Fintech Professional Training, Global Fintech Industry Promotion Center (2017. 4. 27.~ 2017. 7. 5.) 
+- Seoul National University 4th Industrial Revolution Academy: Bigdata Analytics Courses (2018. 6. 18.~ 2018. 12. 14.) 
 
 ### Award
 - Improvement of KB commercial area analysis & Development of Market fit indicator, for small business owners (2018) / Seoul National University **(Excellence Prize)**
 
 ### Core Competency
 1. Model fit
- : I often use R's 'caret', 'h2o' packages to fit various machine learning models, and I have studied the theoretical background of most models. For regression/classification problems, I can properly develop predictive models. and also able to analyze data through Python, SAS, and SPSS.
+ : I use Python & R for various machine learning models, and I have studied the theoretical background of most models. For regression/classification problems, I can properly develop predictive models. 
 
 1. Model deployment **[I can service machine learning models to customers and collaborate with developers.]**  
- : I have experience in developing a recommendation system through R's recosystem package, and I can deploy a model that can upload the plumber API to GCP through docker. 
+ : I have experience in developing Model API, and I can deploy a model that can upload the plumber API to GCP through docker. 
 
 1. Visualization app development **[I can provide analysis results in the form of an interaction graph and implement a prototype app.]**  
  : I have experience developing visualization prototype apps using R Shiny. This app provides an interaction graph representing the predicted value according to the action of the user interface. In addition, it can be visualized using geographic information.
 
 ### Project
-- 주관적만족감에 미치는 영향요인 분석, Analysis of Influencing Factors on Subjective Satisfaction (2022)
-- 머신러닝을 이용한 신용평가모형 개발 Development Credit rating model using machine learning (2021) / Undergraduate researcher, Pusan National Univ.
-- 관광지 추천 시스템 Sightseeing Recommendation System (2021) / AI Hackathon, Pusan National Univ.
-- 소상공인을 위한 KB 상권분석 개선 및 개발 Improvement of KB commercial area analysis & Development of commercial district, for small business owners (2018) / Seoul National Univ.
-
+- Analysis of Influencing Factors on Subjective Satisfaction (2022) *CFA, AutoML, XAI
+- Development Credit rating model using statistical machine learning (2022) *glmboost
+- Sightseeing Recommendation System (2021) * 
+- Improvement of KB commercial area analysis & Development of commercial district, for small business owners (2018)
 
 ### TMI
 - Study & Interest
-  + Statistics : Time series, Bayesian, Deep Learning
-  + Financial : Credit Rating, Quantative Finance
-  + Marketing : Recommendation, Text Mining
+  + Time series, Deep Learning
 
 - Military Service: Korean Air Force, Honorably Discharged (2019. 5. - 2021. 3)
 
