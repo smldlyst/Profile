@@ -53,10 +53,10 @@
 
 ### Core Competency
 1. **Model Deployment**  
- : I can perform statistical and machine learning modeling for regression/classification prediction skillfully, and I have studied the theoretical background of most models. Also, I can apply AutoML & XAI to the analysis. I keep studying deep learning and XAI.
+ : I can perform statistical and machine learning modeling for regression/classification prediction skillfully, and I have studied the theoretical background of most models. also, I can apply AutoML & XAI to the analysis. I keep studying deep learning and XAI.
 
 1. **API Deployment**  
- : I can develop DB, Model API, and distribute it to cloud.
+ : I can develop DB API and Model API and have the ability to distribute them to the cloud.
 
 1. **App development**  
  : I can develop an app that provides data analysis results through the R Shiny framework. (Currently, I am studying developing apps through full stack.)
