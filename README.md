@@ -63,19 +63,19 @@
 
 ### Core Competency
 1. Model fit
- : I use Python & R for various machine learning models, and I have studied the theoretical background of most models. For regression/classification problems, I can properly develop predictive models. 
+ : I can perform statistical and machine learning modeling for regression/classification prediction skillfully, and I have studied the theoretical background of most models. 
 
 1. Model deployment **[I can service machine learning models to customers and collaborate with developers.]**  
- : I have experience in developing Model API, and I can deploy a model that can upload the plumber API to GCP through docker. 
+ : I have the ability to develop DB APIs and model APIs.
 
 1. Visualization app development **[I can provide analysis results in the form of an interaction graph and implement a prototype app.]**  
- : I have experience developing visualization prototype apps using R Shiny. This app provides an interaction graph representing the predicted value according to the action of the user interface. In addition, it can be visualized using geographic information.
-
+ : I can provide data analysis results through app development.
+ 
 ### Project
 - Analysis of Influencing Factors on Subjective Satisfaction (2022) *CFA, AutoML, XAI
 - Development Credit rating model using statistical machine learning (2022) *glmboost
-- Sightseeing Recommendation System (2021) * 
-- Improvement of KB commercial area analysis & Development of commercial district, for small business owners (2018)
+- Sightseeing Recommendation System (2021) *serving model api
+- Improvement of KB commercial area analysis & Development of commercial district, for small business owners (2018) *r shiny
 
 ### TMI
 - Study & Interest
