@@ -52,7 +52,7 @@
 
 
 ### Core Competency
-1. **Fit Model**  
+1. **Model Deployment**  
  : I can perform statistical and machine learning modeling for regression/classification prediction skillfully, and I have studied the theoretical background of most models. Also, I can apply AutoML & XAI to the analysis. I keep studying deep learning and XAI.
 
 1. **API Deployment**  
