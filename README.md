@@ -52,13 +52,13 @@
 
 
 ### Core Competency
-1. Fit Model
- : I can perform statistical and machine learning modeling for regression/classification prediction skillfully, and I have studied the theoretical background of most models. Also, I can apply AutoML & XAI to the analysis.
+1. **Fit Model**
+ : I can perform statistical and machine learning modeling for regression/classification prediction skillfully, and I have studied the theoretical background of most models. Also, I can apply AutoML & XAI to the analysis. I keep studying deep learning and XAI.
 
-1. API Deployment **[I can service machine learning models to customers and collaborate with developers.]**  
+1. **API Deployment**
  : I can develop DB, Model API, and distribute it to cloud.
 
-1. App development **[I can provide analysis results in the form of an interaction graph and implement a prototype app.]**  
+1. **App development** 
  : I can develop an app that provides data analysis results through the R Shiny framework. (Currently, I am studying developing apps through full stack.)
 
 
