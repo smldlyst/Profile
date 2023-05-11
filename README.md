@@ -65,11 +65,11 @@
 1. Model fit
  : I can perform statistical and machine learning modeling for regression/classification prediction skillfully, and I have studied the theoretical background of most models. 
 
-1. Model deployment **[I can service machine learning models to customers and collaborate with developers.]**  
- : I have the ability to develop DB APIs and model APIs.
+1. API Deployment **[I can service machine learning models to customers and collaborate with developers.]**  
+ : I can develop DB, Model API, and distribute it to cloud.
 
-1. Visualization app development **[I can provide analysis results in the form of an interaction graph and implement a prototype app.]**  
- : I can provide data analysis results through app development.
+1. App development **[I can provide analysis results in the form of an interaction graph and implement a prototype app.]**  
+ : I can develop an app that provides data analysis results through the R Shiny framework. (Currently, I am studying developing apps through full stack.)
  
 ### Project
 - Analysis of Influencing Factors on Subjective Satisfaction (2022) *CFA, AutoML, XAI
