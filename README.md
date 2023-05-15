@@ -44,8 +44,9 @@
 ### Work Experience
 - AI Engineer, INEEJI (2023~)
   - Develop App for Anomaly Detection 
-  - DB Optimization
   - Develop DB API
+  - DB Optimization
+  
 - Public Servant, Statistics Korea (2016-2018, 1 year)
   - Creating statistics (using SAS, SPSS)
   - General Affair
