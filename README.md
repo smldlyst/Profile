@@ -83,7 +83,7 @@
  - Engineer Big Data Analysis (2022)
 
 
-### TMI
+### Etc
 - Study & Interest
   + Time series, Deep Learning
 
