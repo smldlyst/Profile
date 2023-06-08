@@ -42,7 +42,7 @@
 - Bachelor of Science in Statistics, Pusan National University (2023)
 
 ### Work Experience
-- AI Engineer, INEEJI (2023~)
+- AI Engineer, Startup (2023~)
   - Develop App for Anomaly Detection 
   - Develop DB API
   - DB Optimization
