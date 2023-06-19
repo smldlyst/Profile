@@ -89,13 +89,6 @@
 
 - Military Service: Korean Air Force, Honorably Discharged (2019. 5. - 2021. 3)
 
-------------  
-
-<div align = center>
-
-  ![smldlyst's github stats](https://github-readme-stats.vercel.app/api?username=smldlyst&show_icons=true)
-
-</div>
 
 ------------  
 
