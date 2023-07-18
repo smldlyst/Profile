@@ -44,8 +44,8 @@
 ### Work Experience
 - AI Engineer, INEEJI (2023)
   - Time Series Prediction
+  - Time Series Anomaly Detection
   - DB Optimization(Query, Table)
-  - Develop App for Anomaly Detection 
   - Develop DB API
   
 - Public Servant, Statistics Korea (2016-2018, 1 year)
