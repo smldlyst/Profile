@@ -42,7 +42,7 @@
 - Bachelor of Science in Statistics, Pusan National University (2023)
 
 ### Work Experience
-- AI Engineer, INEEJI (2023)
+- AI Engineer, INEEJI (2023.1. ~ 2023.8.)
   - Time Series Prediction
   - Time Series Anomaly Detection
   - DB Optimization(Query, Table)
