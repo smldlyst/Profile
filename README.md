@@ -14,7 +14,7 @@
 
 
 ### Introduce
-#### Hello. I majored in statistics and work as an AI engineer. I am particularly interested in anomaly detection and deep learning prediction modeling for time series data.
+#### Hello. I majored in statistics and worked as an AI engineer. Currently, I am studying the development of webs and apps related to finance.
 
 ------------  
 <div align = center>
