@@ -14,7 +14,7 @@
 
 
 ### Introduce
-#### Hello. I majored in statistics and worked as an AI engineer. Currently, I am studying the development of webs and apps related to finance.
+#### Hello. I majored in statistics and worked as an AI engineer. Currently, I am studying the algorithm.
 
 ------------  
 <div align = center>
@@ -25,7 +25,6 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=blue"/></a>
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=navy"/></a>
-<img src="https://img.shields.io/badge/SQL Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=gray"/></a>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=green"/></a>
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=green"/></a>
