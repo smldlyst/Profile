@@ -14,7 +14,7 @@
 
 
 ### Introduce
-#### Hello. I majored in statistics and worked as an AI engineer. Currently, I am studying the algorithm.
+#### Hello. I majored in statistics and worked as an AI engineer. Currently, I am studying the algorithms.
 
 ------------  
 <div align = center>
